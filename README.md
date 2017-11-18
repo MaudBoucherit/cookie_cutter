@@ -22,7 +22,7 @@ Then open your local directory to the place where you want to store the local ve
 
 On a bash shell:   
   - Change the current working directory to the place where you want to store the local version of your project.   
-  - Run the command: `bash cookiecutter.sh`.   
+  - Run the command: `bash cookiecutter.sh`   
 
 The console will ask you several information about you and your project:   
   - your full name,   
@@ -32,7 +32,7 @@ The console will ask you several information about you and your project:
   - the date,
   - the url of your github repo.
 
-**Warning:** [1] you must enter the exact name of your github repository, else the initialisation might fail.
+[1] **Warning:** you must enter the exact name of your github repository, else the initialisation might fail.
 
 ### An exemple
 [This repo](https://github.com/MaudBoucherit/first_cookied_repo) was created using the [cookiecutter.sh](cookiecutter.sh) file.
